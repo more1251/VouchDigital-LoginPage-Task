@@ -136,6 +136,7 @@ html,body{
 .login-cont .login-form{
   width: 30vw;
   margin-left: 100px;
+  margin-top: 10vh !important;
 }
 
 .login-form .title-cont{
@@ -310,7 +311,7 @@ html,body{
   .login-cont .login-form{
     width: 80vw;
     margin-right: 30vw;
-    margin-top: 100px;
+    margin-top: 20vh !important;
   }
 
   .login-cont .image-cont{
@@ -319,12 +320,13 @@ html,body{
 
   
   .login-form .heading{
-    font-size: 28px;
+    font-size: 32px;
     font-weight: 800;
   }
   
   .login-form .sub-heading{
-    font-size: 15px;
+    font-size: 16px;
+    margin-top: -1vh !important;
   }
   
   .login-form .input-field{
